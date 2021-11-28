@@ -17,7 +17,7 @@ HTML5 Simple Game Programming Preparation: (https://www.udemy.com/course/free-pr
 A Complete Introductory Tutorial on HTML5: (https://www.udemy.com/course/introductory-tutorial-html5)
 
 
-#CSS
+# CSS
 CSS Tutorial by W3Schools: (https://www.w3schools.com/css/)
 Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-basics-of-html5-css3-beginner-web-development)
 Web Development By Doing: HTML / CSS From Scratch: (https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory)
@@ -27,7 +27,7 @@ Build a Quiz App with HTML, CSS, and JavaScript: (https://www.udemy.com/course/b
 Master the Basics of HTML5 & CSS3: Beginner Web Development: (https://www.udemy.com/course/master-the-ba
 sics-of-html5-css3-beginner-web-development)
 
-#Javascript
+# Javascript
 JavaScript Tutorial by W3Schools: (https://www.w3schools.com/js/)
 Learn HTML, CSS, and JavaScript from Scratch: (https://www.educative.io/courses/learn-html-css-javascript-from-scratch)
 Javascript Essentials: (https://www.udemy.com/course/javascript-essentials)
@@ -57,7 +57,7 @@ Modules in JavaScript: (https://javascript.info/modules)
 
 
 
-#React
+# React
 React JS Frontend Web Development for Beginners(https://www.udemy.com/course/react-tutorial/)
 Build your first React JS Application(https://www.udemy.com/course/build-your-first-react-js-application/)
 Introduction to React Router(https://www.udemy.com/tutorial/the-advanced-web-developer-bootcamp/introduction-to-react-router/)
@@ -66,5 +66,5 @@ Build Tic Tac Toe Game By React.js [Reducer Hook Tutorial](https://www.udemy.com
 
 
 
-#React Native
+# React Native
 Intro to React Native build a chat app(https://www.udemy.com/course/learn-react-native-by-building-a-chat-app/)
